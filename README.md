@@ -1,2 +1,2 @@
 # hello-world
-# start by hao
+# started by hao
